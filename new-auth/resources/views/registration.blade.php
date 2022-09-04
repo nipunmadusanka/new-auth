@@ -28,7 +28,7 @@
 					@endif
 				</div>
 				<div class="d-grid mx-auto">
-					<button type="submit" class="btn btn-dark btn-block">Create New User</button>
+					<button type="submit" class="btn btn-dark btn-block">Create New Users</button>
 				</div>
 			</form>
 		</div>
